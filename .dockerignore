@@ -1,0 +1,17 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+venv
+
+# Configuration
+.env
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Documentation
+README.md
